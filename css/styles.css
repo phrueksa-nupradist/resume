@@ -8,5 +8,8 @@ h1{
  
  padding-top: 100px ;
 }
-.my-font{font-family: 'Kanit', sans-serif;}
-
+.my-button{ color: green;}
+.my-border{
+  border-style: solid;
+  border-color: green;
+}
